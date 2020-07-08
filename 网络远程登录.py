@@ -30,6 +30,3 @@ with open("txt.txt","w",encoding="utf-8",newline="") as fp:
     cd=len(list1)
     for i in range(cd):
         fp.write(list1[i])
-
-
-1111111111111111111
