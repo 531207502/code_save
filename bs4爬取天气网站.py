@@ -33,5 +33,4 @@ def chuli(page):
         #print("接着下一个目录了")
     for l in list_2:
         print(l)
-        list_2.sort(key=)
 chuli(pageall)
