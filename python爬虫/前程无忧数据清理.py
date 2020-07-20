@@ -14,16 +14,27 @@ with open("qiancheng.html","w",encoding="gb18030") as fp:
 #这里和网页上有点不同，这里注意虽然是通过文件打开的，但是还是要选择解析器
 bstext=BeautifulSoup(open("qiancheng.html",encoding="gb18030"),"lxml")
 #第一次数据清理，提取所有标签是div，过滤条件是class=el的
+
 list1=bstext.find_all("div",attrs={"class":"el"})
-print(len(list1))
+# print(len(list1))
+# print(list1[0].string)
+# print(list1[0].strings)
+# for i in list1[0].strings:
+#     print(i)
+# print(list1[0].stripped_strings)
+# for j in list1[0].stripped_strings:
+#     print(j)
+# print(type(list1[0].strings))
 #这里是根据提取出来的，发现我们需要的数据是从第18个开始的，一直到结束
 #print(len(list1))
-# for i in range(17,66):
-#     list1[i].find_all("")
+for i in range(17,66):
+    list1[i].find_all("")
 for i in range (17,66):
     print("下面是提取出来的数据明细")
     print("岗位要求：{}".format(*list(list1[i].find_all("a")[0].stripped_strings)))
+#查找标签是span，属性是class=t2的标签
     print("公司名称：{}".format(*list(list1[i].find_all("span",attrs={"class":"t2"})[0].stripped_strings)))
+#下面的表达式是获取标签属性的方式
     print("详细信息网址：{}".format(list1[i].find_all("a")[0]["href"]))
     try:
         print("薪资：{}".format(*list(list1[i].find_all("span",attrs={"class":"t4"})[0].strings)))
