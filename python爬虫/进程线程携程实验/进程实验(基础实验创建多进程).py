@@ -27,9 +27,10 @@ if __name__=="__main__":
     p2.start()
     print("主进程号是{}".format(os.getpid()))
     b=1
-    while True:
-        print("这是主界面的程序，3秒一次，第{}次".format(b))
-        b+=1
-        sleep(3)
-        testnum += 5
-        print("这个是主程序测试num的值：{}".format(testnum))
+    print("主进程结束了")
+    # while True:
+    #     print("这是主界面的程序，3秒一次，第{}次".format(b))
+    #     b+=1
+    #     sleep(3)
+    #     testnum += 5
+    #     print("这个是主程序测试num的值：{}".format(testnum))
