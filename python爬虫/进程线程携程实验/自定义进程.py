@@ -13,12 +13,13 @@ class MyProcess(Process):
             print("这个是重写的run方法里的东西，数值是{}".format(self.n))
             self.n+=1
             sleep(1)
-    def test1(self,num):
+    def test1(self,num1):
         while True:
-            print("这个是自定义的test方法，数值是{}".format(num))
-            sleep(10)
+            print("这个是自定义的test方法，数值是{}".format(num1))
+            sleep(4)
 if __name__== '__main__':
     p1=MyProcess("刘金凤",10)
     p2 = MyProcess("程宇龙", 100)
     p1.start()
+    p1.test1(222)
     p2.start()

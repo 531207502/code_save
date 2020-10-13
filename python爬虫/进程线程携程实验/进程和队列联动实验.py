@@ -51,6 +51,7 @@ if __name__ == '__main__':
     q.put(list[0])
     p1.start()
     sleep(0.1)
+    #p1.join()如果在这里开启了，那么p2.start()就是会等到p1执行完成后再执行
     p2.start()
     p1.join()
     p2.join()
