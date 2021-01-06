@@ -1,5 +1,4 @@
 from time import sleep
-
 import openpyxl
 import os
 import re
@@ -12,7 +11,7 @@ def tqtime(file_object,sh,nr):
         a = re.search("uptime is *", nr[x])
         if a == None:
             print(nr[x])
-            sleep(1)
+            #sleep(1)
             continue
         else:
             sh.cell(row=row1, column=2, value=nr[x])
