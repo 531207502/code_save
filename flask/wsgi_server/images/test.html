@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>程宇龙的标题</title>
+	<style type="text/css">
+		a{	
+			color:C blue;
+			text-decoration: none;
+		}
+		a:hover{
+			color: green;
+		}
+		.test1{
+			background: red;
+			color: rgb(8,32,255,0.5);
+			width: 300px;
+			height: 300px;
+			text-align: left;
+			text-decoration: underline;
+		}
+		#adv{
+			width: 200px;
+			height: 200px;
+			background: blue;
+			color: yellow;
+			position: fixed;
+			right: 100px;
+			top: 100px;
+		}
+	</style>
+	<style type="text/css">
+		ul{
+			margin-top: 0px;
+			padding: 50px;
+		}
+		.ul1{
+			margin-top: 0px;
+			margin-left: 0px;		
+			}
+		ol{
+			list-style-type: square;
+			border-top-color: red;
+		}
+		table{
+			border-top-color: red;
+		}
+	</style>
+</head>
+<body>
+<span id="dingbu"></span>
+<h1>这是标题1</h1>
+<p>这个是段落1</p>
+<a href="https://www.baidu.com">这个是个百度的链接，是在当前窗口下打开</a>
+<br>
+<a href="https://www.baidu.com" target="_blank">这个是个百度的链接，是在新窗口打开</a>
+<br>
+<a href="#">这个是一个污染链接</a>
+<p style="font-size: 20px;color: red;font-family: 微软雅黑">这是段落2</p>
+<img src="https://img95.699pic.com/photo/40100/6015.jpg_wh300.jpg" alt="如果显示不出来了，可能是图片失效了" width="400" height="200">
+<table border="3" cellspacing="0">
+	<caption style="background-color: blue;text-align: center;color: #FFFF00;	">这是一个表格</caption>
+<tr style=width:60px;height:20px;>
+	<th style=width:60px;height:20px;>第一列</th>
+	<th style=width:60px;height:20px;>第二列</th>
+	<th style=width:60px;height:20px;>第三列</th>
+	<th style=width:60px;height:20px;>第四列</th>
+</tr>
+<tr>
+	<td style=width:80px;height:20px;>第一行左边</td>
+	<td style=width:80px;height:20px;>第一行中间</td>
+	<td style=width:80px;height:20px;>第一行右边</td>
+</tr>
+<tr>
+	<td>第二行左</td>
+	<td>第二行右</td>
+</tr>
+<ul>
+	这个是无序列表(默认值)
+	<li>苹果</li>
+	<li>橘子</li>
+	<li>香蕉</li>
+	<li>梨子</li>
+	<li>西瓜</li>
+	<li>火龙果</li>
+<ol>
+	<li>程宇龙</li>
+	<br>
+	<li>刘金凤</li>
+	<br>
+	<li>程嘉佑</li>
+	<br>
+	<li>其他的暂时不写</li>
+</ol>
+</ul>
+<form action=""  method="post">
+	<p>
+		用户名：
+		<input type="text" name="username" placeholder="必须填" required readonly>
+		<br>
+		密码：
+		<input type="password" name="password" required>
+		<br>
+		确认密码：
+		<input type="password" name="repassword" required>
+	</p>
+	<p>
+	性别：
+	<input type="radio" name="sex" value="1" checked>男
+	<input type="radio" name="sex" value="0">女
+	</p>
+	<p>
+	爱好：
+	<input type="checkbox" name="fav" value="阅读">阅读
+	<input type="checkbox" name="fav" value="游戏">游戏
+	<input type="checkbox" name="fav" value="运动">运动
+	<input type="checkbox" name="fav" value="电影">电影
+	</p>
+	<p>
+	<select name="province">
+		<option value="北京">
+			北京
+		</option>
+		<option value="四川" selected>
+			四川
+		</option>
+		<option value="重庆">
+			重庆
+		</option>
+		<option value="浙江">
+			浙江
+		</option>
+		<option value="云南">
+			云南
+		</option>
+	</select>
+	</p>
+	<p>
+	生日：
+	<input type="date" name="birthday">
+	</p>
+	<p>
+	邮箱：
+	<input type="email" name="email">
+	</p>
+	<p>
+	自我介绍：
+	<textarea cols="30" rows="10" name="intro">这是一个文本区,填写你的信息</textarea>
+	</p>
+	<p>
+		<input type="submit" value="确认注册">
+		<input type="reset" value="重新填写">
+	</p>
+</form>
+<p>
+	<a href="#dingbu">这个是回顶部的</a>
+</p>
+<p>
+	<video controls>
+		<source src="内部系统介绍.mp4"></source>
+</p>
+<p>
+	<iframe src="https://map.baidu.com/" width="1000" height="1500"></iframe>
+</p>
+<p class="test1">
+	这个是作用类选择器的实验的
+</p>
+<div id="adv">
+	此广告位招租
+	<button id="butt" style="float: right;">
+		关闭
+	</button>
+</div>
+<ul class='ul1'>
+		这个是无序列表(ceshixia)
+		<li>苹果</li>
+		<li>橘子</li>
+		<li>香蕉</li>
+		<li>梨子</li>
+		<li>西瓜</li>
+		<li>火龙果</li>
+</ul>
+<script>
+	var closeBtn = document.getElementById('butt')
+	closeBtn.addEventListener('click',function(){
+		var advDiv = document.getElementById('adv')
+		advDiv.style.display='none';
+	})
+</script>
+</body>
+</html>
