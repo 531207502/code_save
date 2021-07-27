@@ -2,21 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54563b75-ca9a-4469-a394-ecf84e7a0af8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysql数据库/数据库基本操作(删除数据).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql数据库/数据库基本操作(插入数据).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql数据库/数据库基本操作(更新数据).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql数据库/数据库基本操作(查询数据).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql数据库/数据库基本操作(综合).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis数据库/redis基操.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/列表推导式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试目录/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/server2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/templates/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021requests/bs4-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021requests/requests-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021requests/xiachufang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel整合/jf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/H3C/cpuA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/H3C/dirA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/H3C/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/H3C/interfaceA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/H3C/memoryA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/H3C/versionA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/H3C/巡检A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/MP/interfaceA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/MP/巡检A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/cpuA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/dirA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/versionA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/巡检A.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask/wsgi_server/server1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/wsgi_server/server1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel操作/excel操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel操作/excel操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_seckill" beforeDir="false" afterPath="$PROJECT_DIR$/jd_seckill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jd_seckill/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/jd_seckill/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/乾颐堂作业/list排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/乾颐堂作业/list排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests的使用/renren.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests的使用/requests获取登录后内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests的使用/requests获取登录后内容.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/巡检提取时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/巡检提取时间.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试目录/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/测试目录/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则表达式测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式测试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则表达式爬取豆瓣.py" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式爬取豆瓣.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/cisco/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/memoryA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/cisco/interfaceA.py" beforeDir="false" afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/interfaceA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/cisco/memory.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021requests/qianmuwang/qianmuwang.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,95 +43,125 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/乾颐堂作业/list排序.py">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/memoryA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/测试目录/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/列表推导式.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/巡检提取时间.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+            <state relative-caret-position="19">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
               <folding>
-                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jd_seckill/jd_spider_requests.py">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/interfaceA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8170">
-              <caret line="454" column="18" selection-start-line="454" selection-start-column="18" selection-end-line="454" selection-end-column="112" />
+            <state relative-caret-position="1102">
+              <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jd_seckill/config.ini">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/巡检A.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="238">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1333059940/builtins.py">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/dirA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10051">
-              <caret line="529" column="53" selection-start-line="529" selection-start-column="31" selection-end-line="529" selection-end-column="53" />
+            <state relative-caret-position="133">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jd_seckill/timer.py">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/cpuA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/memoryA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="15" column="75" selection-start-line="15" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/environment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/interfaceA.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jd_seckill/main.py">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/versionA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            <state relative-caret-position="171">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/versionA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="4" column="55" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -129,11 +178,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>抢购链接获取失败，稍后自动重试</find>
+      <find>https://i2.chuimg.com/ea2eea5c7c9111e5b9d7a9bfb5aebcdb.jpg?imageView2/1/w/60/h/60/interlace/1/q/90</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jd_seckill" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/jd_seckill" value="main" />
@@ -143,16 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/csv的基本操作/csv的基本操作案例.py" />
-        <option value="$PROJECT_DIR$/远程登录.py" />
-        <option value="$PROJECT_DIR$/进程线程携程实验/进程实验.py" />
-        <option value="$PROJECT_DIR$/类的简单测试/类基础测试.py" />
-        <option value="$PROJECT_DIR$/进程线程携程实验/批量创建进程.py" />
-        <option value="$PROJECT_DIR$/进程线程携程实验/批量创建进程（非阻塞式）.py" />
-        <option value="$PROJECT_DIR$/进程线程携程实验/线程基础操作.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/进程线程携程实验/进程实验(基础实验创建多进程).py" />
-        <option value="$PROJECT_DIR$/进程线程携程实验/进程和队列联动实验.py" />
         <option value="$PROJECT_DIR$/进程线程携程实验/自定义进程.py" />
         <option value="$PROJECT_DIR$/mongodb/python下mongodb.py" />
         <option value="$PROJECT_DIR$/流畅的python/python数据模型（第一章）.py" />
@@ -166,16 +206,48 @@
         <option value="$PROJECT_DIR$/测试目录/test.py" />
         <option value="$PROJECT_DIR$/mysql数据库/数据库基本操作(综合).py" />
         <option value="$PROJECT_DIR$/redis数据库/redis基操.py" />
-        <option value="$PROJECT_DIR$/巡检提取时间.py" />
         <option value="$PROJECT_DIR$/jd_seckill/README.md" />
         <option value="$PROJECT_DIR$/jd_seckill/util.py" />
         <option value="$PROJECT_DIR$/乾颐堂作业/list排序.py" />
         <option value="$PROJECT_DIR$/测试目录/test1.py" />
         <option value="$PROJECT_DIR$/jd_seckill/config.ini" />
+        <option value="$PROJECT_DIR$/正则表达式测试.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/memory.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/interface-A.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/interface.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/dirA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/interfaceA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C/interfaceA.py" />
+        <option value="$PROJECT_DIR$/2021requests/requests-test.py" />
+        <option value="$PROJECT_DIR$/requests的使用/requests获取登录后内容.py" />
+        <option value="$PROJECT_DIR$/2021requests/bs4.py" />
+        <option value="$PROJECT_DIR$/2021requests/bs4-test.py" />
+        <option value="$PROJECT_DIR$/2021requests/xiachufang.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/versionA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C/H3C巡检.py" />
+        <option value="$PROJECT_DIR$/正则表达式爬取豆瓣.py" />
+        <option value="$PROJECT_DIR$/2021requests/qianmuwang/qianmuwang.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/MP/巡检A.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/MP/interfaceA.py" />
+        <option value="$PROJECT_DIR$/excel操作/excel操作.py" />
+        <option value="$PROJECT_DIR$/excel整合/jf.py" />
+        <option value="$PROJECT_DIR$/巡检提取时间.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/memoryA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/cpuA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/environment.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/cisco/巡检A.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW/巡检A.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW/versionA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C/versionA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C/cpuA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C/memoryA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C/dirA.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C/environment.py" />
+        <option value="$PROJECT_DIR$/设备巡检检查脚本/H3C/巡检A.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="3" />
     <option name="width" value="1378" />
@@ -199,7 +271,13 @@
             <path>
               <item name="python爬虫" type="b2602c69:ProjectViewProjectNode" />
               <item name="python爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="jd_seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="设备巡检检查脚本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python爬虫" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="设备巡检检查脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="cisco" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/设备巡检检查脚本" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -223,13 +301,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Crystal\PycharmProjects\python爬虫\设备巡检检查脚本" />
+      <recent name="C:\Users\Crystal\PycharmProjects\python爬虫\设备巡检检查脚本\MP" />
+      <recent name="C:\Users\Crystal\PycharmProjects\python爬虫\设备巡检检查脚本\H3C" />
+      <recent name="C:\Users\Crystal\PycharmProjects\python爬虫\设备巡检检查脚本\cisco" />
+      <recent name="C:\Users\Crystal\PycharmProjects\python爬虫" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Crystal\PycharmProjects\python爬虫\测试目录" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Crystal\PycharmProjects\python爬虫" />
-      <recent name="C:\Users\Crystal\PycharmProjects\python爬虫\mysql数据库" />
-      <recent name="C:\Users\Crystal\PycharmProjects\python爬虫\流畅的python" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -244,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.巡检A">
     <configuration name="巡检提取时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="自定义进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="巡检A (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,12 +355,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程线程携程实验" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/设备巡检检查脚本/H3C" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程线程携程实验/自定义进程.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/设备巡检检查脚本/H3C/巡检A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +369,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="类基础测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="巡检A (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,12 +377,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类的简单测试" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类的简单测试/类基础测试.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW/巡检A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="自定义进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="巡检A" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,100 +399,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程线程携程实验" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程线程携程实验/自定义进程.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="批量创建进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程线程携程实验" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程线程携程实验/批量创建进程.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="自定义进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程线程携程实验" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程线程携程实验/自定义进程.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="进程实验" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程线程携程实验" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Crystal\PycharmProjects\python爬虫\进程线程携程实验\进程实验(基础实验创建多进程).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="自定义进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程线程携程实验" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程线程携程实验/自定义进程.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/设备巡检检查脚本/cisco/巡检A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,7 +435,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="数据库基本操作(综合)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="正则表达式测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -451,12 +443,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql数据库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql数据库/数据库基本操作(综合).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则表达式测试.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -465,7 +457,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="数据库基本操作(更新数据)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="versionA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -473,122 +465,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql数据库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql数据库/数据库基本操作(更新数据).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="数据库基本操作(查询数据)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql数据库" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql数据库/数据库基本操作(查询数据).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/乾颐堂作业" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/乾颐堂作业/list排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jd_seckill" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jd_seckill/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="redis基操" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redis数据库" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis数据库/redis基操.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试目录" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试目录/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW/versionA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -599,11 +481,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.list排序" />
+        <item itemvalue="Python.巡检A" />
+        <item itemvalue="Python.巡检A (1)" />
+        <item itemvalue="Python.巡检A (2)" />
+        <item itemvalue="Python.versionA" />
         <item itemvalue="Python.巡检提取时间" />
-        <item itemvalue="Python.redis基操" />
       </list>
     </recent_temporary>
   </component>
@@ -651,22 +533,54 @@
       <workItem from="1608258922298" duration="1977000" />
       <workItem from="1609389869559" duration="10346000" />
       <workItem from="1609724503793" duration="17260000" />
-      <workItem from="1609826333655" duration="1601000" />
+      <workItem from="1609826333655" duration="2316000" />
+      <workItem from="1610094688954" duration="515000" />
+      <workItem from="1611217558415" duration="13992000" />
+      <workItem from="1611909326126" duration="1129000" />
+      <workItem from="1613618009828" duration="15271000" />
+      <workItem from="1614319648212" duration="11530000" />
+      <workItem from="1614479801730" duration="3415000" />
+      <workItem from="1614594030157" duration="656000" />
+      <workItem from="1614594729802" duration="1982000" />
+      <workItem from="1614758401295" duration="1208000" />
+      <workItem from="1614842893685" duration="38716000" />
+      <workItem from="1615276843045" duration="720000" />
+      <workItem from="1615992632083" duration="1428000" />
+      <workItem from="1616049096023" duration="13907000" />
+      <workItem from="1616498737906" duration="7592000" />
+      <workItem from="1616654615398" duration="1453000" />
+      <workItem from="1616656147676" duration="6506000" />
+      <workItem from="1616857737769" duration="6110000" />
+      <workItem from="1616984213229" duration="14087000" />
+      <workItem from="1617707747479" duration="287000" />
+      <workItem from="1617861959726" duration="1173000" />
+      <workItem from="1617872627857" duration="1711000" />
+      <workItem from="1617879390672" duration="352000" />
+      <workItem from="1618212987595" duration="3973000" />
+      <workItem from="1620962951423" duration="3145000" />
+      <workItem from="1623834864446" duration="6302000" />
+      <workItem from="1624266455238" duration="77000" />
+      <workItem from="1624433788896" duration="1499000" />
+      <workItem from="1626851019848" duration="5492000" />
+      <workItem from="1626918641654" duration="19228000" />
+      <workItem from="1627003768168" duration="485000" />
+      <workItem from="1627266994873" duration="646000" />
+      <workItem from="1627343489113" duration="815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183140000" />
+    <option name="totallyTimeSpent" value="369257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.44498777" visible="true" weight="0.40090773" />
-      <window_info id="Structure" order="1" sideWeight="0.5550122" side_tool="true" visible="true" weight="0.40090773" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.41075796" visible="true" weight="0.4417549" />
+      <window_info id="Structure" order="1" sideWeight="0.58924204" side_tool="true" weight="0.35627836" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -675,324 +589,91 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32852808" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/设备巡检检查脚本/H3C/memoryA.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="巡检提取时间 Coverage Results" MODIFIED="1609729916957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="巡检提取时间 Coverage Results" MODIFIED="1624435605694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$A__2_.coverage" NAME="巡检A (2) Coverage Results" MODIFIED="1626934612201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW" />
     <SUITE FILE_PATH="coverage/python$pythonmongodb.coverage" NAME="python下mongodb Coverage Results" MODIFIED="1597882927694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
+    <SUITE FILE_PATH="coverage/python$versionA.coverage" NAME="versionA Coverage Results" MODIFIED="1626934602980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1609898489481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_seckill" />
-    <SUITE FILE_PATH="coverage/python$__.coverage" NAME="数据库基本操作(综合) Coverage Results" MODIFIED="1606718397605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql数据库" />
-    <SUITE FILE_PATH="coverage/python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1609753622408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试目录" />
-    <SUITE FILE_PATH="coverage/python$redis.coverage" NAME="redis基操 Coverage Results" MODIFIED="1606818184261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis数据库" />
     <SUITE FILE_PATH="coverage/python$list.coverage" NAME="list排序 Coverage Results" MODIFIED="1609741376505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/乾颐堂作业" />
-    <SUITE FILE_PATH="coverage/python$python.coverage" NAME="python数据模型（第一章） Coverage Results" MODIFIED="1602148174540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/流畅的python" />
     <SUITE FILE_PATH="coverage/python$___.coverage" NAME="衍生---扑克牌抽牌游戏 Coverage Results" MODIFIED="1602203686769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/流畅的python" />
     <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1605777970257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试目录" />
+    <SUITE FILE_PATH="coverage/python$memory.coverage" NAME="memory Coverage Results" MODIFIED="1614072890358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
+    <SUITE FILE_PATH="coverage/python$memoryA.coverage" NAME="memoryA Coverage Results" MODIFIED="1614913031386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
+    <SUITE FILE_PATH="coverage/python$interfaceA.coverage" NAME="interfaceA Coverage Results" MODIFIED="1615002589007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
+    <SUITE FILE_PATH="coverage/python$xiachufang.coverage" NAME="xiachufang Coverage Results" MODIFIED="1616985619743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021requests" />
+    <SUITE FILE_PATH="coverage/python$H3C.coverage" NAME="H3C巡检 Coverage Results" MODIFIED="1617014948960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C" />
+    <SUITE FILE_PATH="coverage/python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1609753622408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试目录" />
+    <SUITE FILE_PATH="coverage/python$jf.coverage" NAME="jf Coverage Results" MODIFIED="1623856960683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel整合" />
+    <SUITE FILE_PATH="coverage/python$python.coverage" NAME="python数据模型（第一章） Coverage Results" MODIFIED="1602148174540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/流畅的python" />
+    <SUITE FILE_PATH="coverage/python$cpuA.coverage" NAME="cpuA Coverage Results" MODIFIED="1617013410855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C" />
+    <SUITE FILE_PATH="coverage/python$qianmuwang.coverage" NAME="qianmuwang Coverage Results" MODIFIED="1617879527244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021requests/qianmuwang" />
+    <SUITE FILE_PATH="coverage/python$interface.coverage" NAME="interface Coverage Results" MODIFIED="1614482076544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
+    <SUITE FILE_PATH="coverage/python$bs4.coverage" NAME="bs4 Coverage Results" MODIFIED="1616598305524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021requests" />
+    <SUITE FILE_PATH="coverage/python$A__1_.coverage" NAME="巡检A (1) Coverage Results" MODIFIED="1626946268406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C" />
+    <SUITE FILE_PATH="coverage/python$excel.coverage" NAME="excel操作 Coverage Results" MODIFIED="1623852574753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel操作" />
+    <SUITE FILE_PATH="coverage/python$__.coverage" NAME="数据库基本操作(综合) Coverage Results" MODIFIED="1606718397605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql数据库" />
+    <SUITE FILE_PATH="coverage/python$requests_test.coverage" NAME="requests-test Coverage Results" MODIFIED="1616511945186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021requests" />
+    <SUITE FILE_PATH="coverage/python$requests.coverage" NAME="requests获取登录后内容 Coverage Results" MODIFIED="1616598147706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests的使用" />
+    <SUITE FILE_PATH="coverage/python$bs4_test.coverage" NAME="bs4-test Coverage Results" MODIFIED="1616655219778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021requests" />
+    <SUITE FILE_PATH="coverage/python$A.coverage" NAME="巡检A Coverage Results" MODIFIED="1627003954783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
+    <SUITE FILE_PATH="coverage/python$redis.coverage" NAME="redis基操 Coverage Results" MODIFIED="1606818184261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis数据库" />
+    <SUITE FILE_PATH="coverage/python$dirA.coverage" NAME="dirA Coverage Results" MODIFIED="1614917256604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/类的简单测试/类基础测试.py">
+    <entry file="file://$PROJECT_DIR$/mysql数据库/数据库基本操作(删除数据).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/进程线程携程实验/线程基础操作.py">
+    <entry file="file://$PROJECT_DIR$/jd_seckill/timer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd_seckill/cookies/jd112250hpo.cookies">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/进程线程携程实验/进程实验(基础实验创建多进程).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/进程线程携程实验/批量创建进程（非阻塞式）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="424" lean-forward="true" selection-start-line="424" selection-end-line="424" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="255" column="8" selection-start-line="255" selection-start-column="8" selection-end-line="255" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymongo/mongo_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="102" column="25" selection-start-line="102" selection-start-column="12" selection-end-line="102" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb/python下mongodb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/进程线程携程实验/进程和队列联动实验.py">
+    <entry file="file://$PROJECT_DIR$/jd_seckill/jd_spider_requests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="902" column="11" selection-start-line="902" selection-start-column="11" selection-end-line="902" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/进程线程携程实验/自定义进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymongo/collection.py">
+    <entry file="file://$PROJECT_DIR$/jd_seckill/jd_seckill.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11685">
-          <caret line="653" column="8" selection-start-line="653" selection-start-column="8" selection-end-line="653" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="93" column="18" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymysql/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3002">
-          <caret line="182" column="33" selection-start-line="182" selection-start-column="33" selection-end-line="182" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流畅的python/python数据模型（第一章）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21546">
-          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则表达式爬取豆瓣.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="976" column="4" selection-start-line="976" selection-start-column="4" selection-end-line="976" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流畅的python/衍生---扑克牌抽牌游戏.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/远程登录.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql数据库/数据库基本操作(删除数据).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql数据库/数据库基本操作(更新数据).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql数据库/数据库基本操作(综合).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis数据库/redis基操.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/redis/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1762" column="8" selection-start-line="1762" selection-start-column="8" selection-end-line="1762" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/redis/connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql数据库/数据库基本操作(查询数据).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql数据库/数据库基本操作(插入数据).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymysql/cursors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2850">
-          <caret line="156" column="39" selection-start-line="156" selection-start-column="39" selection-end-line="156" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="342">
-            <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6555">
-          <caret line="348" column="8" selection-start-line="348" selection-start-column="8" selection-end-line="348" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/测试目录/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/txt.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/exception.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1938" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="965" column="30" lean-forward="true" selection-start-line="965" selection-start-column="30" selection-end-line="965" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1003,77 +684,312 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/qr_code.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/乾颐堂作业/list排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/测试目录/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/列表推导式.py">
+    <entry file="file://$PROJECT_DIR$/jd_seckill/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/巡检提取时间.py">
+    <entry file="file://$PROJECT_DIR$/jd_seckill/config.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd_seckill/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/jd_spider_requests.py">
+    <entry file="file://$PROJECT_DIR$/jd_seckill/exception.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd_seckill/jd_logger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8170">
-          <caret line="454" column="18" selection-start-line="454" selection-start-column="18" selection-end-line="454" selection-end-column="112" />
+        <state>
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1333059940/builtins.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10051">
-          <caret line="529" column="53" selection-start-line="529" selection-start-column="31" selection-end-line="529" selection-end-column="53" />
+        <state relative-caret-position="247">
+          <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/timer.py">
+    <entry file="file://$PROJECT_DIR$/requests的使用/renren.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests的使用/requests和bs4爬取电影天堂/爬取电影天堂.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests的使用/requests代理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jd_seckill/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        <state relative-caret-position="456">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jd_seckill/config.ini">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021requests/.images/73" />
+    <entry file="file://$PROJECT_DIR$/2021requests/.images/1e92dc707c9211e5949a9dc38687f4d3.jpg" />
+    <entry file="file://$PROJECT_DIR$/2021requests/.images/1ed5b9e6a0f511e59d809f7fe74ab27f.jpg" />
+    <entry file="file://$PROJECT_DIR$/2021requests/qianmuwang/renren.html" />
+    <entry file="file://$PROJECT_DIR$/2021requests/bs4-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests的使用/requests获取登录后内容.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021requests/qianmuwang/qianmuwang.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021requests/xiachufang.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2021requests/requests-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1616511955103" expanded="true" signature="274:414" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/MP/interfaceA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/MP/巡检A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel操作/excel操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel整合/jf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/dirA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/H3C巡检.py" />
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/cpuA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正则表达式测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正则表达式爬取豆瓣.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/巡检提取时间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/巡检A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/memoryA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/interfaceA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/dirA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/cpuA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/memoryA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="75" selection-start-line="15" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/interfaceA.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/versionA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/cisco/versionA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设备巡检检查脚本/H3C/巡检A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -22,12 +22,16 @@ def filename(file_object,sh,nr):
     n = 0
     while lines - 1 != x:  # 逐行匹配
         x += 1
-        a = re.findall("<.*>", nr[x])
-        if a == []:
+        a = re.findall("^<.*>display", nr[x])
+        b = re.findall(".*#show version", nr[x])
+        if a == [] and b==[]:
             continue
-        else:
+        elif a!=[]:
             #print(a)
             sh.cell(row=row1, column=1, value=a[0])
+            break
+        elif b!=[]:
+            sh.cell(row=row1, column=1, value=b[0])
             break
 path = "F:/cisco"   #指定文件路径
 for root, dirs, files in os.walk(path, True):#进行目录遍历
@@ -54,4 +58,3 @@ while e != wenjianshu:
         row1+=1
         e+=1
 wb.save(r"F:/cisco/test111.xlsx")
-
