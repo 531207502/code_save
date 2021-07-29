@@ -56,7 +56,7 @@ def textcz(filename,textcount):
                 if(list1):
                     writeexcel(list1)
 def writeexcel(li1):
-    workbook=openpyxl.load_workbook('F:/cisco.xlsx')
+    workbook=openpyxl.load_workbook('D:/xunjian/cisco.xlsx')
     interface=workbook['interface1']
     interface.append(li1)
-    workbook.save('F:/cisco.xlsx')
+    workbook.save('D:/xunjian/cisco.xlsx')

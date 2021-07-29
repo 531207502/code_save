@@ -12,7 +12,7 @@ def main():
     texttj(filelist)
 def fileBl():
     #获取文件数量，返回文件名列表
-    path = "F:/h3c"   #指定文件路径
+    path = "D:/xunjian/h3ctest"   #指定文件路径
     for root, dirs, files in os.walk(path, True):#进行目录遍历
         print ('root: %s' % root)#输出文件所属目录
         print ('dirs: %s' % dirs)#输出子文件夹
@@ -23,7 +23,7 @@ def texttj(files):
     wenjianshu=len(files)
     index=0
     while(wenjianshu):
-        with open('F:/h3c/'+files[index], encoding="utf-8")as file_object:
+        with open('D:/xunjian/h3ctest/'+files[index], encoding="utf-8")as file_object:
             text = file_object.readlines()  # 读取文件内容
             lines = len(text)  # 统计文件行数
             #print(lines)

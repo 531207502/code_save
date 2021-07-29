@@ -42,7 +42,7 @@ def textcz(filename,textcount):
         else:
             continue
         if list1:
-            with open('F:/h3c env.txt','a',encoding='utf-8') as  stream:
+            with open('D:/xunjian/h3c env.txt','a',encoding='utf-8') as  stream:
                 stream.write(filename)
                 stream.write('\n')
                 stream.writelines(list1)

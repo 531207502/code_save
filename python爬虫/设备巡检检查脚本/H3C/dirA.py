@@ -9,7 +9,7 @@ def textcz(filename,textcount):
             writeexcel(list1)
             break
 def writeexcel(li1):
-    workbook=openpyxl.load_workbook('F:/h3c.xlsx')
+    workbook=openpyxl.load_workbook('D:/xunjian/h3c.xlsx')
     interface=workbook['dir1']
     interface.append(li1)
-    workbook.save('F:/h3c.xlsx')
+    workbook.save('D:/xunjian/h3c.xlsx')

@@ -19,7 +19,7 @@ def textcz(filename,textcount):
             continue
         if list1!=None:
             #print(list1)
-            with open('F:/cisco env.txt','a',encoding='utf-8') as  stream:
+            with open('D:/xunjian/cisco env.txt','a',encoding='utf-8') as  stream:
                 stream.write(filename)
                 stream.write('\n')
                 stream.writelines(list1)

@@ -27,20 +27,20 @@ def textcz(filename,textcount):
             writeexcel3(list1)
             break
 def writeexcel1(li1,li2):
-    workbook=openpyxl.load_workbook('F:/cisco.xlsx')
+    workbook=openpyxl.load_workbook('D:/xunjian/cisco.xlsx')
     memory1=workbook['memory1']
     memory1.append(li1)
     memory1.append(li2)
-    workbook.save('F:/cisco.xlsx')
+    workbook.save('D:/xunjian/cisco.xlsx')
 def writeexcel2(li1,li2,li3):
-    workbook=openpyxl.load_workbook('F:/cisco.xlsx')
+    workbook=openpyxl.load_workbook('D:/xunjian/cisco.xlsx')
     memory1=workbook['memory1']
     memory1.append(li1)
     memory1.append(li2)
     memory1.append(li3)
-    workbook.save('F:/cisco.xlsx')
+    workbook.save('D:/xunjian/cisco.xlsx')
 def writeexcel3(li1):
-    workbook=openpyxl.load_workbook('F:/cisco.xlsx')
+    workbook=openpyxl.load_workbook('D:/xunjian/cisco.xlsx')
     memory1=workbook['memory1']
     memory1.append(li1)
-    workbook.save('F:/cisco.xlsx')
+    workbook.save('D:/xunjian/cisco.xlsx')
