@@ -1,18 +1,18 @@
 import openpyxl
 import os
 import re
+import interfaceA
 import memoryA
 import versionA
 import cpuA
 import dirA
 import environment
-import spanningtree
 def main():
     filelist = fileBl()
     texttj(filelist)
 def fileBl():
     #获取文件数量，返回文件名列表
-    path = "D:/xunjian/mptest"   #指定文件路径
+    path = "D:/xunjian/hwtest"   #指定文件路径
     for root, dirs, files in os.walk(path, True):#进行目录遍历
         print ('root: %s' % root)#输出文件所属目录
         print ('dirs: %s' % dirs)#输出子文件夹
@@ -23,12 +23,12 @@ def texttj(files):
     wenjianshu=len(files)
     index=0
     while(wenjianshu):
-        with open('D:/xunjian/mptest/'+files[index], encoding="utf-8")as file_object:
+        with open('D:/xunjian/hwtest/'+files[index], encoding="utf-8")as file_object:
             text = file_object.readlines()  # 读取文件内容
             lines = len(text)  # 统计文件行数
             #print(lines)
             for i in text:
-                name1=re.search('(.*)show version',i)
+                name1=re.search('(.*)display version',i)
                 if(name1):
                     name1=name1.group(1)
                     #print(name1)
@@ -36,12 +36,11 @@ def texttj(files):
             name=name1
             wenjianshu-=1
             index+=1
-            # versionA.textcz(name,text)
-            # cpuA.textcz(name,text)
-            # memoryA.textcz(name,text)
-            # dirA.textcz(name,text)
-            # environment.textcz(name,text)
-            spanningtree.textcz(name,text)
+            #versionA.textcz(name,text)
+            cpuA.textcz(name,text)
+            #memoryA.textcz(name,text)
+            #dirA.textcz(name,text)
+            #environment.textcz(name,text)
             #interfaceA.textcz(name,text)
 if __name__ == '__main__':
     main()

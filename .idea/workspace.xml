@@ -2,21 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf6aed2-8592-46c7-8f06-05ffa6f504d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/spanningtree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/cpuA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/cpuA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/dirA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/dirA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/environment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/memoryA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/memoryA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/versionA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/versionA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/巡检A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/cpuA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/cpuA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/dirA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/dirA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/environment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/interfaceA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/interfaceA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/memoryA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/memoryA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/versionA.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/versionA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW/cpuA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW/dirA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW/interfaceA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW/memoryA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW/versionA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW/巡检A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/cpuA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/dirA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/memoryA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/spanningtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/versionA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/cpuA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/cpuB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/dirA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/environmentAB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/fwresourceA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/listB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/memoryA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/memoryB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/versionA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/巡检A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/interfaceA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/巡检A.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/巡检A.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -53,12 +64,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Crystal\PycharmProjects\code_save\python爬虫\设备巡检检查脚本\MP" />
+      <recent name="C:\Users\Crystal\PycharmProjects\code_save\python爬虫\设备巡检检查脚本" />
+      <recent name="C:\Users\Crystal\PycharmProjects\code_save\python爬虫\设备巡检检查脚本\cisco-fw" />
       <recent name="C:\Users\Crystal\PycharmProjects\code_save\python爬虫\设备巡检检查脚本\cisco" />
       <recent name="C:\Users\Crystal\PycharmProjects\code_save" />
-      <recent name="C:\Users\Crystal\PycharmProjects\code_save\python爬虫" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.巡检A">
+  <component name="RunManager" selected="Python.巡检A (4)">
     <configuration name="巡检A (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +86,72 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C/巡检A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="巡检A (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW/巡检A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="巡检A (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw/巡检A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="巡检A (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP/巡检A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,33 +182,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spanningtree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco/spanningtree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.巡检A (4)" />
         <item itemvalue="Python.巡检A" />
-        <item itemvalue="Python.spanningtree" />
+        <item itemvalue="Python.巡检A (3)" />
         <item itemvalue="Python.巡检A (1)" />
+        <item itemvalue="Python.巡检A (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +209,10 @@
       <workItem from="1627520058687" duration="21000" />
       <workItem from="1627520100222" duration="44000" />
       <workItem from="1627520162853" duration="166000" />
-      <workItem from="1627520359884" duration="14699000" />
+      <workItem from="1627520359884" duration="21531000" />
+      <workItem from="1627607602807" duration="9508000" />
+      <workItem from="1627866907226" duration="21630000" />
+      <workItem from="1627954076900" duration="14317000" />
     </task>
     <servers />
   </component>
@@ -171,7 +233,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/code_save$spanningtree.coverage" NAME="spanningtree Coverage Results" MODIFIED="1627465055968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco" />
-    <SUITE FILE_PATH="coverage/code_save$A.coverage" NAME="巡检A Coverage Results" MODIFIED="1627536287369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco" />
-    <SUITE FILE_PATH="coverage/code_save$A__1_.coverage" NAME="巡检A (1) Coverage Results" MODIFIED="1627452036382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C" />
+    <SUITE FILE_PATH="coverage/code_save$A.coverage" NAME="巡检A Coverage Results" MODIFIED="1627979163444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco" />
+    <SUITE FILE_PATH="coverage/code_save$A__3_.coverage" NAME="巡检A (3) Coverage Results" MODIFIED="1627964446768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/cisco-fw" />
+    <SUITE FILE_PATH="coverage/code_save$A__1_.coverage" NAME="巡检A (1) Coverage Results" MODIFIED="1627961914233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/H3C" />
+    <SUITE FILE_PATH="coverage/code_save$A__2_.coverage" NAME="巡检A (2) Coverage Results" MODIFIED="1627961452127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/HW" />
+    <SUITE FILE_PATH="coverage/code_save$A__4_.coverage" NAME="巡检A (4) Coverage Results" MODIFIED="1627979676480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python爬虫/设备巡检检查脚本/MP" />
   </component>
 </project>
