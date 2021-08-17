@@ -37,12 +37,12 @@ def texttj(files):
             name=name1
             wenjianshu-=1
             index+=1
-            # versionA.textcz(name,text)
-            # cpuA.textcz(name,text)
-            # memoryA.textcz(name,text)
-            # dirA.textcz(name,text)
-            # environment.textcz(name,text)
-            spanningtree.textcz(name,text)
+            versionA.textcz(name,text)
+            cpuA.textcz(name,text)
+            memoryA.textcz(name,text)
+            dirA.textcz(name,text)
+            environment.textcz(name,text)
+            #spanningtree.textcz(name,text)
             #interfaceA.textcz(name,text)
 if __name__ == '__main__':
     main()
