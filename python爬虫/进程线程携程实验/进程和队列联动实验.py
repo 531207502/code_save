@@ -53,6 +53,6 @@ if __name__ == '__main__':
     sleep(0.1)
     #p1.join()如果在这里开启了，那么p2.start()就是会等到p1执行完成后再执行
     p2.start()
-    p1.join()
-    p2.join()
+    # p1.join()
+    # p2.join()
     print("整个程序结束了")

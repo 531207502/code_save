@@ -42,7 +42,7 @@ def texttj(files):
             memoryA.textcz(name,text)
             dirA.textcz(name,text)
             environment.textcz(name,text)
-            #spanningtree.textcz(name,text)
+            spanningtree.textcz(name,text)
             #interfaceA.textcz(name,text)
 if __name__ == '__main__':
     main()

@@ -14,15 +14,16 @@ def task(task_name):
 def callback_func(n):
     list.append(n)
 if __name__=="__main__":
+    print('开始时间:{}'.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
     pool=Pool(4)
     tasks=["听音乐","吃饭","洗衣服","拖地","赌球","打游戏","打PS"]
     for i in range(7):
-        pool.apply_async(task,args=(tasks[i],),callback=callback_func)
+        pool.apply_async(func=task,args=(tasks[i],),callback=callback_func)
     pool.close()
     pool.join()
-    print("所有任务都开始了")
+    print("所有任务都结束了")
     for i in list:
         print(i)
     print("运行结束")
-q=Queue(5)
+    print('结束时间:{}'.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
 
