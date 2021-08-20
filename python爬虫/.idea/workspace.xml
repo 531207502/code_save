@@ -4,9 +4,7 @@
     <list default="true" id="54563b75-ca9a-4469-a394-ecf84e7a0af8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/MP/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/设备巡检检查脚本/MP/巡检A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/cisco/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/巡检A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/进程线程携程实验/批量创建进程（非阻塞式）.py" beforeDir="false" afterPath="$PROJECT_DIR$/进程线程携程实验/批量创建进程（非阻塞式）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/进程线程携程实验/进程和队列联动实验.py" beforeDir="false" afterPath="$PROJECT_DIR$/进程线程携程实验/进程和队列联动实验.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,7 +377,7 @@
       <workItem from="1629190574152" duration="1321000" />
       <workItem from="1629268663556" duration="5891000" />
       <workItem from="1629289046795" duration="3250000" />
-      <workItem from="1629429055706" duration="4966000" />
+      <workItem from="1629429055706" duration="6078000" />
     </task>
     <servers />
   </component>
@@ -460,7 +458,7 @@
     <SUITE FILE_PATH="coverage/python$memory.coverage" NAME="memory Coverage Results" MODIFIED="1614072890358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
     <SUITE FILE_PATH="coverage/python$pythonmongodb.coverage" NAME="python下mongodb Coverage Results" MODIFIED="1597882927694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
     <SUITE FILE_PATH="coverage/python$python.coverage" NAME="python数据模型（第一章） Coverage Results" MODIFIED="1602148174540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/流畅的python" />
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="进程和队列联动实验 Coverage Results" MODIFIED="1629443975437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程携程实验" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="进程和队列联动实验 Coverage Results" MODIFIED="1629445148980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程携程实验" />
     <SUITE FILE_PATH="coverage/python$bs4.coverage" NAME="bs4 Coverage Results" MODIFIED="1616598305524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021requests" />
     <SUITE FILE_PATH="coverage/python$qianmuwang.coverage" NAME="qianmuwang Coverage Results" MODIFIED="1617879527244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021requests/qianmuwang" />
     <SUITE FILE_PATH="coverage/python$A.coverage" NAME="巡检A Coverage Results" MODIFIED="1629300421933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
