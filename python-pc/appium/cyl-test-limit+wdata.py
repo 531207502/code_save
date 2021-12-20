@@ -77,7 +77,7 @@ while True:
             step = el6[xunhuan].find_elements(By.XPATH,"//*[@resource-id='com.tencent.mm:id/c5a']")
             name = el6[xunhuan].find_elements(By.XPATH,"//*[@resource-id='com.tencent.mm:id/c6d']")
         #if name != [] and step != []:
-            if int(step[0].get_attribute('text')) > 3700:
+            if int(step[0].get_attribute('text')) > 4000:
                 el21[0].click()
                 zd[name[0].get_attribute('text')] = step[0].get_attribute('text')
             else:

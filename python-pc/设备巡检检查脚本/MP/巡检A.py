@@ -45,3 +45,4 @@ def texttj(files):
             #interfaceA.textcz(name,text)
 if __name__ == '__main__':
     main()
+    #迈普15台

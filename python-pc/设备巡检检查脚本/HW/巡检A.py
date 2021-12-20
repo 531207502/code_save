@@ -36,12 +36,12 @@ def texttj(files):
             name=name1
             wenjianshu-=1
             index+=1
-            #versionA.textcz(name,text)
-            #cpu这里 没有长宁R4
+            # versionA.textcz(name,text)
+            # #cpu这里 没有长宁R4
             cpuA.textcz(name,text)
-            #memoryA.textcz(name,text)
-            #dirA.textcz(name,text)
-            #environment.textcz(name,text)
+            # memoryA.textcz(name,text)
+            # dirA.textcz(name,text)
+            # environment.textcz(name,text)
             #interfaceA.textcz(name,text)
 if __name__ == '__main__':
     main()

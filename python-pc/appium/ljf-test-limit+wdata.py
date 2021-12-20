@@ -46,8 +46,8 @@ width = driver.get_window_size()['width']
 height = driver.get_window_size()['height']
 print("屏幕的高为：{}".format(width))
 print("屏幕的宽为：{}".format(height))
-start_x , start_y = 1/2 * width ,3/5 * height
-end_x , end_y = 1/2 * width , 1/5 * height
+start_x , start_y = 1/2 * width ,4/5 * height
+end_x , end_y = 1/2 * width , 2/5 * height
 count=2000
 flag=0
 #time.sleep(2)

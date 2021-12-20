@@ -69,3 +69,4 @@ def texttj(files):
                     fwresourceA.textcz(name, text)
 if __name__ == '__main__':
     main()
+    #核心防火墙加北京总共13台

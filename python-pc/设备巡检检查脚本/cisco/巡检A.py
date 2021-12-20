@@ -46,3 +46,4 @@ def texttj(files):
             #interfaceA.textcz(name,text)
 if __name__ == '__main__':
     main()
+    #核心的好像总数是46台，加北京4台
