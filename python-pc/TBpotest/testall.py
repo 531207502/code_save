@@ -31,4 +31,6 @@ class TestCase1(unittest.TestCase):
         time.sleep(1)
         #driver.find_element(by=By.LINK_TEXT, value='订单搜索').click()
         #driver.find_element(by=By.XPATH, value='.//*[@class="search-mod__order-search-button___1q3E0"]').click()
-        unittest.main()
+if __name__ == '__main__':
+    unittest.main()
+    unittest.TestSuite

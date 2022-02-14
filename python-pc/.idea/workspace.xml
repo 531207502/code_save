@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54563b75-ca9a-4469-a394-ecf84e7a0af8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TBpotest/base/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TBpotest/pageobject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TBpotest/pageobject/chaxun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TBpotest/pageobject/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TBpotest/testall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TBpotest/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TBpotest/testcase/chaxun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TBpotest/testcase/denglu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FETCH_HEAD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appium/cyl-test-limit+wdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/appium/cyl-test-limit+wdata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appium/ljf-test-limit+wdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/appium/ljf-test-limit+wdata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/potest/base/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TBpotest/baogao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/potest/base/base_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/potest/pageobject/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TBpotest/base/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/potest/pageobject/login_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/potest/testcase/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TBpotest/base/base_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/potest/testcase/cs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium/淘宝登录.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/淘宝登录.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/HW/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/设备巡检检查脚本/HW/巡检A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/MP/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/设备巡检检查脚本/MP/巡检A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/cisco-fw/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco-fw/巡检A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/设备巡检检查脚本/cisco/巡检A.py" beforeDir="false" afterPath="$PROJECT_DIR$/设备巡检检查脚本/cisco/巡检A.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python爬虫/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../python爬虫/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../python爬虫/.idea/python爬虫.iml" beforeDir="false" />
@@ -186,14 +166,25 @@
       <find>https://i2.chuimg.com/ea2eea5c7c9111e5b9d7a9bfb5aebcdb.jpg?imageView2/1/w/60/h/60/interlace/1/q/90</find>
     </findStrings>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/jd_seckill" value="main" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -309,7 +300,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TBpotest/testcase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vmware-monitor" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -318,15 +309,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Crystal\PycharmProjects\code_save\python-pc\vmware-monitor" />
+      <recent name="C:\Users\Crystal\PycharmProjects\code_save\python-pc\TB_NIANDUBAOGAO" />
       <recent name="C:\Users\Crystal\PycharmProjects\code_save\python-pc\TBpotest\testcase" />
       <recent name="C:\Users\Crystal\PycharmProjects\code_save\python-pc" />
       <recent name="C:\Users\Crystal\PycharmProjects\code_save\python-pc\appium" />
-      <recent name="C:\Users\Crystal\PycharmProjects\code_save\python-pc\pyautogui" />
-      <recent name="C:\Users\Crystal\PycharmProjects\code_save\python爬虫\selenium" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Crystal\PycharmProjects\code_save\python爬虫\potest" />
@@ -336,8 +327,8 @@
       <recent name="C:\Users\Crystal\PycharmProjects\python爬虫\测试目录" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for chaxun.TestCase">
-    <configuration name="baogao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ljf-test-limit+wdata">
+    <configuration name="巡检A (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,12 +336,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TBpotest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/设备巡检检查脚本/cisco-fw" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TBpotest/baogao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/设备巡检检查脚本/cisco-fw/巡检A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="巡检A (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/设备巡检检查脚本/MP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/设备巡检检查脚本/MP/巡检A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get-resource" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vmware-monitor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vmware-monitor/get-resource.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ljf-test-limit+wdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appium/ljf-test-limit+wdata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vmware-monitor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vmware-monitor/test123.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,81 +460,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for chaxun.TestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TBpotest/testcase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;chaxun.TestCase&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for chaxun.TestCase.test_02_chaxun" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TBpotest/testcase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;chaxun.TestCase.test_02_chaxun&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in chaxun.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TBpotest/testcase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TBpotest/testcase/chaxun.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in denglu.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python爬虫" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TBpotest/testcase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TBpotest/testcase/denglu.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.unittest基础.py" />
-      <item itemvalue="Python.baogao" />
-      <item itemvalue="Python tests.Unittests in denglu.py" />
-      <item itemvalue="Python tests.Unittests in chaxun.py" />
-      <item itemvalue="Python tests.Unittests for chaxun.TestCase.test_02_chaxun" />
-      <item itemvalue="Python tests.Unittests for chaxun.TestCase" />
+      <item itemvalue="Python.巡检A (1)" />
+      <item itemvalue="Python.巡检A (4)" />
+      <item itemvalue="Python.get-resource" />
+      <item itemvalue="Python.test123" />
+      <item itemvalue="Python.ljf-test-limit+wdata" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for chaxun.TestCase" />
-        <item itemvalue="Python.baogao" />
-        <item itemvalue="Python tests.Unittests in chaxun.py" />
-        <item itemvalue="Python tests.Unittests in denglu.py" />
-        <item itemvalue="Python tests.Unittests for chaxun.TestCase.test_02_chaxun" />
+        <item itemvalue="Python.ljf-test-limit+wdata" />
+        <item itemvalue="Python.get-resource" />
+        <item itemvalue="Python.test123" />
+        <item itemvalue="Python.巡检A (4)" />
+        <item itemvalue="Python.巡检A (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -588,7 +607,41 @@
       <workItem from="1639666332977" duration="5850000" />
       <workItem from="1639723357968" duration="5347000" />
       <workItem from="1639750878002" duration="4992000" />
-      <workItem from="1639897431528" duration="7132000" />
+      <workItem from="1639897431528" duration="13515000" />
+      <workItem from="1640010835566" duration="6017000" />
+      <workItem from="1640095642551" duration="895000" />
+      <workItem from="1640138709753" duration="7728000" />
+      <workItem from="1640184606118" duration="112000" />
+      <workItem from="1640184742010" duration="637000" />
+      <workItem from="1640271027644" duration="1216000" />
+      <workItem from="1640529031865" duration="567000" />
+      <workItem from="1640572009522" duration="16304000" />
+      <workItem from="1640605627860" duration="6628000" />
+      <workItem from="1640789072681" duration="974000" />
+      <workItem from="1640790893765" duration="84000" />
+      <workItem from="1640874714191" duration="1266000" />
+      <workItem from="1641306125704" duration="1285000" />
+      <workItem from="1641391381562" duration="859000" />
+      <workItem from="1641395558674" duration="82000" />
+      <workItem from="1641481329886" duration="99000" />
+      <workItem from="1641481543848" duration="1188000" />
+      <workItem from="1641568796562" duration="621000" />
+      <workItem from="1641825229742" duration="1256000" />
+      <workItem from="1641912679247" duration="3387000" />
+      <workItem from="1642432417988" duration="613000" />
+      <workItem from="1642602670776" duration="660000" />
+      <workItem from="1642688563277" duration="797000" />
+      <workItem from="1642730222542" duration="4966000" />
+      <workItem from="1642749945706" duration="1511000" />
+      <workItem from="1642769801561" duration="16855000" />
+      <workItem from="1643081571415" duration="22075000" />
+      <workItem from="1644245753365" duration="42000" />
+      <workItem from="1644245955885" duration="3852000" />
+      <workItem from="1644331919764" duration="68000" />
+      <workItem from="1644332118572" duration="621000" />
+      <workItem from="1644415257004" duration="638000" />
+      <workItem from="1644806422155" duration="953000" />
+      <workItem from="1644807401803" duration="3041000" />
     </task>
     <servers />
   </component>
@@ -652,6 +705,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_in_NDBG_py.coverage" NAME="Unittests in NDBG.py Coverage Results" MODIFIED="1640618948461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TB_NIANDUBAOGAO" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1639703062839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest/pageobject" />
     <SUITE FILE_PATH="coverage/python$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1630562993921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium/po测试/base" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_for_chaxun_TestCase.coverage" NAME="Unittests for chaxun.TestCase Coverage Results" MODIFIED="1639987317916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest/testcase" />
@@ -663,9 +717,9 @@
     <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_for_cs_TestCase_test_02_chaxun.coverage" NAME="Unittests for cs.TestCase.test_02_chaxun Coverage Results" MODIFIED="1639646684046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest/testcase" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_in_unittest_py.coverage" NAME="Unittests in unittest基础.py Coverage Results" MODIFIED="1639326359292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$dianzan.coverage" NAME="dianzan Coverage Results" MODIFIED="1639362569187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyautogui" />
-    <SUITE FILE_PATH="coverage/paramiko_auto_py$baogao.coverage" NAME="baogao Coverage Results" MODIFIED="1639970483753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$baogao.coverage" NAME="baogao Coverage Results" MODIFIED="1640069695199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest" />
     <SUITE FILE_PATH="coverage/python$Unittests_for_unittest_TestCase.coverage" NAME="Unittests for unittest基础 Coverage Results" MODIFIED="1630400623704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
-    <SUITE FILE_PATH="coverage/paramiko_auto_py$A__3_.coverage" NAME="巡检A (3) Coverage Results" MODIFIED="1639641055881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco-fw" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$A__3_.coverage" NAME="巡检A (3) Coverage Results" MODIFIED="1642730965255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/HW" />
     <SUITE FILE_PATH="coverage/python$memoryA.coverage" NAME="memoryA Coverage Results" MODIFIED="1614913031386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
     <SUITE FILE_PATH="coverage/python$A__4_.coverage" NAME="巡检A (4) Coverage Results" MODIFIED="1634867687216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/HW" />
     <SUITE FILE_PATH="coverage/python$Unittests_for_unittest_TestCase1.coverage" NAME="Unittests for unittest基础.TestCase1 Coverage Results" MODIFIED="1630466866377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
@@ -674,6 +728,7 @@
     <SUITE FILE_PATH="coverage/paramiko_auto_py$pyautogui_test.coverage" NAME="pyautogui-test Coverage Results" MODIFIED="1639315249168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyautogui" />
     <SUITE FILE_PATH="coverage/python$versionA.coverage" NAME="versionA Coverage Results" MODIFIED="1626934602980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C+HW" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$autozan.coverage" NAME="autozan Coverage Results" MODIFIED="1639315325390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyautogui" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1642991468036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vmware-monitor" />
     <SUITE FILE_PATH="coverage/python$python.coverage" NAME="python数据模型（第一章） Coverage Results" MODIFIED="1602148174540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/流畅的python" />
     <SUITE FILE_PATH="coverage/python$bs4.coverage" NAME="bs4 Coverage Results" MODIFIED="1616598305524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021requests" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_for_chaxun_TestCase_test_02_chaxun.coverage" NAME="Unittests for chaxun.TestCase.test_02_chaxun Coverage Results" MODIFIED="1639753731544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest/testcase" />
@@ -683,6 +738,8 @@
     <SUITE FILE_PATH="coverage/python$Unittests_for_unittest_TestCase1__1_.coverage" NAME="Unittests for unittest基础.TestCase1 (1) Coverage Results" MODIFIED="1630467183316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_test" />
     <SUITE FILE_PATH="coverage/python$Unittests_in__py.coverage" NAME="Unittests in 淘宝登录.py Coverage Results" MODIFIED="1630549601330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$cyl_test_limit_wdata.coverage" NAME="cyl-test-limit+wdata Coverage Results" MODIFIED="1639449572584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$paramiko_auto.coverage" NAME="paramiko-auto Coverage Results" MODIFIED="1640054709962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paramiko" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$get_resource.coverage" NAME="get-resource Coverage Results" MODIFIED="1643180145911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vmware-monitor" />
     <SUITE FILE_PATH="coverage/python$cs.coverage" NAME="cs Coverage Results" MODIFIED="1630568150385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/potest/testcase" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_in_cs_py.coverage" NAME="Unittests in cs.py Coverage Results" MODIFIED="1639642928616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest/testcase" />
     <SUITE FILE_PATH="coverage/python$___.coverage" NAME="衍生---扑克牌抽牌游戏 Coverage Results" MODIFIED="1602203686769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/流畅的python" />
@@ -691,7 +748,8 @@
     <SUITE FILE_PATH="coverage/python$Unittests_for_unittest_TestCase1_test_01.coverage" NAME="Unittests for unittest基础.TestCase1.test_01 Coverage Results" MODIFIED="1630464461158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/python$header.coverage" NAME="加了header和搜索 Coverage Results" MODIFIED="1629685552853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021-08-23爬虫/2基础-加了header" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$liujinfeng_test.coverage" NAME="liujinfeng-test Coverage Results" MODIFIED="1638973526977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
-    <SUITE FILE_PATH="coverage/paramiko_auto_py$A.coverage" NAME="巡检A Coverage Results" MODIFIED="1639640508054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$test.coverage" NAME="test Coverage Results" MODIFIED="1640157341638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试目录" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$A.coverage" NAME="巡检A Coverage Results" MODIFIED="1642732841280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
     <SUITE FILE_PATH="coverage/python$excel.coverage" NAME="excel操作 Coverage Results" MODIFIED="1623852574753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel操作" />
     <SUITE FILE_PATH="coverage/python$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1630563557554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium/po测试/pageobject" />
     <SUITE FILE_PATH="coverage/python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1636447972883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试目录" />
@@ -701,7 +759,7 @@
     <SUITE FILE_PATH="coverage/python$Unittests_in_unittest_py__1_.coverage" NAME="Unittests in unittest基础.py (1) Coverage Results" MODIFIED="1630467140014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_test" />
     <SUITE FILE_PATH="coverage/python$interfaceA.coverage" NAME="interfaceA Coverage Results" MODIFIED="1615002589007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
     <SUITE FILE_PATH="coverage/python$_.coverage" NAME="古诗文&amp;超级鹰 Coverage Results" MODIFIED="1630289804435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021-08-23爬虫/四.验证码识别/1基础-古诗文验证码结合超级鹰识别" />
-    <SUITE FILE_PATH="coverage/paramiko_auto_py$A__2_.coverage" NAME="巡检A (2) Coverage Results" MODIFIED="1639641370754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/HW" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$A__2_.coverage" NAME="巡检A (2) Coverage Results" MODIFIED="1642730601325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C" />
     <SUITE FILE_PATH="coverage/python$list.coverage" NAME="list排序 Coverage Results" MODIFIED="1609741376505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/乾颐堂作业" />
     <SUITE FILE_PATH="coverage/python$login_page__1_.coverage" NAME="login_page (1) Coverage Results" MODIFIED="1630563624618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/potest/pageobject" />
     <SUITE FILE_PATH="coverage/python_pc$paramiko_auto__1_.coverage" NAME="paramiko-auto (1) Coverage Results" MODIFIED="1637223563190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paramiko" />
@@ -709,7 +767,7 @@
     <SUITE FILE_PATH="coverage/paramiko_auto_py$appium_test.coverage" NAME="appium-test Coverage Results" MODIFIED="1638780010884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_in_denglu_py.coverage" NAME="Unittests in denglu.py Coverage Results" MODIFIED="1639753809544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest/testcase" />
     <SUITE FILE_PATH="coverage/python$__1_.coverage" NAME="百度翻译 (1) Coverage Results" MODIFIED="1629710097443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021-08-23爬虫/测试" />
-    <SUITE FILE_PATH="coverage/paramiko_auto_py$ljf_test_limit_wdata.coverage" NAME="ljf-test-limit+wdata Coverage Results" MODIFIED="1639666376257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$ljf_test_limit_wdata.coverage" NAME="ljf-test-limit+wdata Coverage Results" MODIFIED="1644415297113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
     <SUITE FILE_PATH="coverage/python$redis.coverage" NAME="redis基操 Coverage Results" MODIFIED="1606818184261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis数据库" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1609898489481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_seckill" />
     <SUITE FILE_PATH="coverage/python$cpuA.coverage" NAME="cpuA Coverage Results" MODIFIED="1617013410855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C" />
@@ -727,11 +785,11 @@
     <SUITE FILE_PATH="coverage/python$pythonmongodb.coverage" NAME="python下mongodb Coverage Results" MODIFIED="1597882927694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="监督管理局爬取 Coverage Results" MODIFIED="1631092469373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2021-08-23爬虫/6基础-爬取监督管理局页面" />
     <SUITE FILE_PATH="coverage/python$unittest_py.coverage" NAME="unittest基础.py Coverage Results" MODIFIED="1630464047400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
-    <SUITE FILE_PATH="coverage/paramiko_auto_py$A__1_.coverage" NAME="巡检A (1) Coverage Results" MODIFIED="1639640948197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_in_testall_py.coverage" NAME="Unittests in testall.py Coverage Results" MODIFIED="1639723399219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TBpotest" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$A__1_.coverage" NAME="巡检A (1) Coverage Results" MODIFIED="1642744619326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/cisco-fw" />
     <SUITE FILE_PATH="coverage/python$Unittests_in_unittest_py.coverage" NAME="Unittests in unittest基础.py Coverage Results" MODIFIED="1630658333234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/python$selenium.coverage" NAME="selenium基础 Coverage Results" MODIFIED="1630466842146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
-    <SUITE FILE_PATH="coverage/paramiko_auto_py$A__4_.coverage" NAME="巡检A (4) Coverage Results" MODIFIED="1639640415757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/MP" />
+    <SUITE FILE_PATH="coverage/paramiko_auto_py$A__4_.coverage" NAME="巡检A (4) Coverage Results" MODIFIED="1642745148596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/MP" />
     <SUITE FILE_PATH="coverage/paramiko_auto_py$Unittests_in_po_py.coverage" NAME="Unittests in po基础测试.py Coverage Results" MODIFIED="1639322519435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium/po测试" />
     <SUITE FILE_PATH="coverage/python$A__3_.coverage" NAME="巡检A (3) Coverage Results" MODIFIED="1634802409241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/设备巡检检查脚本/H3C" />
     <SUITE FILE_PATH="coverage/python$__.coverage" NAME="进程实验(基础实验创建多进程) Coverage Results" MODIFIED="1630308099401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程携程实验" />

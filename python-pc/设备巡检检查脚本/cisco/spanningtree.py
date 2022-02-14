@@ -53,7 +53,7 @@ def textcz(filename,textcount):
                         list1.append(result2.group(3))
                     else:
                         list1.append(result2.group(1))
-                    resultbd5=result5.group(1)
+                    resultbd5 = result5.group(1)
                     list1.append(result3.group(1))
                     list1.append(result5.group(1))
                     continue

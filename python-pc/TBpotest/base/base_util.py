@@ -1,7 +1,7 @@
 import unittest
 from selenium import webdriver
 class BaseUtil(unittest.TestCase):
-    def setUp(self) -> None:
+    def setUp(self):
         global driver
         # webdriver实例化
         # 这个是为了跳过检测的
@@ -11,5 +11,5 @@ class BaseUtil(unittest.TestCase):
         self.driver = driver
         driver.get('https://login.taobao.com')
         driver.maximize_window()
-    def tearDown(self) -> None:
+    def tearDown(self):
         pass
